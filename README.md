@@ -1,20 +1,20 @@
 <div align="center">
 
-# 🚀 Pengumpulan Tugas & Latihan — PAS 1
+# 🧭 Log Pelayaran PAS-1
 
-### *Dasar Pemrograman C++ · UDINUS · Semester 1*
+### *Catatan pelayaran Daspro C++ — dari variabel hingga pointer · UDINUS · Semester 1*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00599C&width=650&lines=7+kasus+PAS-1%3A+variabel+%E2%86%92+array+%E2%86%92+struct+%E2%86%92+pointer;19+file+sumber+%C2%B7+725+baris+%C2%B7+4+dokumen+analisis;Latihan+C%2B%2B%3A+Nyoba+%2B+Tugas+1+%2B+Tugas+2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=2B5BFF&width=650&lines=7+kasus+PAS-1%3A+variabel+%E2%86%92+array+%E2%86%92+struct+%E2%86%92+pointer;19+file+sumber+%C2%B7+725+baris+%C2%B7+4+dokumen+analisis;Latihan+C%2B%2B%3A+Nyoba+%2B+Tugas+1+%2B+Tugas+2)](https://git.io/typing-svg)
 
-[![C++](https://img.shields.io/badge/language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![NIM](https://img.shields.io/badge/NIM-A11.2026.16980-2B5BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nadeshin)
-[![Status](https://img.shields.io/badge/status-semua_modul_selesai-22c55e?style=for-the-badge)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![NIM](https://img.shields.io/badge/NIM-A11.2026.16980-2B5BFF?style=flat-square)](https://github.com/Nadeshin)
+[![Status](https://img.shields.io/badge/status-semua_modul_selesai-22c55e?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
 
-[![Modul](https://img.shields.io/badge/modul-8_selesai-111827?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
-[![Source](https://img.shields.io/badge/source-19_file_C++-111827?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
-[![LOC](https://img.shields.io/badge/baris_kode-725_LOC-111827?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
-[![Docs](https://img.shields.io/badge/dokumen-4_docx_+_2_txt-111827?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
-[![Last Commit](https://img.shields.io/github/last-commit/Nadeshin/Pengumpulan-Tugas-dan-Latihan?label=komit_terakhir&style=flat-square&color=00599C)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan/commits/main)
+[![Modul](https://img.shields.io/badge/modul-8_selesai-2B5BFF?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
+[![Source](https://img.shields.io/badge/source-19_file_C++-2B5BFF?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
+[![LOC](https://img.shields.io/badge/baris_kode-725_LOC-2B5BFF?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
+[![Docs](https://img.shields.io/badge/dokumen-4_docx_+_2_txt-2B5BFF?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
+[![Last Commit](https://img.shields.io/github/last-commit/Nadeshin/Pengumpulan-Tugas-dan-Latihan?label=komit_terakhir&style=flat-square&color=2B5BFF)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan/commits/main)
 
 </div>
 
@@ -28,7 +28,6 @@
 - [📦 Showcase Kasus](#-showcase-kasus)
 - [🛠️ Latihan C++](#️-latihan-c)
 - [⚡ Cara Menjalankan](#-cara-menjalankan)
-- [✍️ Konvensi Komentar](#️-konvensi-komentar)
 
 ---
 
@@ -190,25 +189,11 @@ g++ "PAS1_Kasus4_A11.2026.16980/Array.cpp" -o array
 
 ---
 
-## ✍️ Konvensi Komentar
-
-Setiap `.cpp` dibuka komentar seragam gaya referensi tugas inventaris — **tanpa mengubah satu pun baris kode**:
-
-```cpp
-// Program Kasus 3 - Perulangan Angka
-// Dibuat oleh Dywa Rusydi Rakhawastu (A11.2026.16980)
-// Tanggal pembuatan: 29 September 2026
-```
-
-diikuti komentar penjelas tiap blok (`// Input...`, `// Hitung...`, `// Tampilkan hasil.`).
-
----
-
 <div align="center">
 
-[![Profile](https://img.shields.io/badge/Nadeshin-github-111827?style=flat-square&logo=github)](https://github.com/Nadeshin)
+[![Profile](https://img.shields.io/badge/Nadeshin-github-2B5BFF?style=flat-square&logo=github)](https://github.com/Nadeshin)
 [![Repo](https://img.shields.io/badge/repo-Pengumpulan_Tugas_dan_Latihan-00599C?style=flat-square)](https://github.com/Nadeshin/Pengumpulan-Tugas-dan-Latihan)
 
-*8 modul · 19 file sumber · 725 baris · 2026*
+*$ echo "Sampai jumpa di pelabuhan berikutnya." — 8 modul · 19 file sumber · 725 baris · 2026 ⚓*
 
 </div>
