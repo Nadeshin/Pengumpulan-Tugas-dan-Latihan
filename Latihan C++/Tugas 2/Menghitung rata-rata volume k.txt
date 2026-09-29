@@ -1,0 +1,38 @@
+Judul: Menghitung rata-rata volume kedua balok
+
+Kamus:
+pj1, lb1, tg1 <-- integer
+pj2, lb2, tg2 <-- integer
+volume1, volume2, rataRata <-- real
+
+Deskripsi:
+pj1 = 3
+lb1 = 4
+tg1 = 5
+
+pj2 = 7
+lb2 = 8
+tg2 = 9
+
+masukan Panjang 1 //dinamis
+masukan lebar 1
+masukan tinggi 1
+hitung volume 1 <-- Panjang1 x lebar1 x tinggi1
+
+masukan Panjang 2 //dinamis
+masukan lebar 2
+masukan tinggi 2
+hitung volume 2 <-- Panjang2 x lebar2 x tinggi2
+
+tampilkan "Panjang1"
+tampilkan "lebar1'
+tampilkan "tinggi1"
+tampilkan "Volume1"
+
+tampilkan "Panjang2"
+tampilkan "lebar2'
+tampilkan "tinggi2"
+tampilkan "Volume2"
+
+tampilkan "Rata-Rata :"
+tampilkan "rataRata'

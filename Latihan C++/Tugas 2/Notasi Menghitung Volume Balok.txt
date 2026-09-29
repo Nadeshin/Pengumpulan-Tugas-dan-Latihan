@@ -1,0 +1,22 @@
+Judul: Menghitung Volume Balok
+
+Kamus:
+Panjang <-- real
+lebar <-- real
+tinggi <-- real
+volume <-- real
+
+Deskripsi:
+Panjang = 3
+lebar = 4
+tinggi = 5
+masukan Panjang //dinamis
+masukan lebar
+masukan tinggi
+hitung volume <-- Panjang x lebar x tinggi
+
+tampilkan "Panjang"
+tampilkan "lebar'
+tampilkan "tinggi"
+tampilkan "Volume : "
+tampilkan "volume"
